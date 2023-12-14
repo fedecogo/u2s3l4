@@ -9,10 +9,8 @@ public class Location {
 	@Id
 	@GeneratedValue
 	private long id;
-
 	private String nome;
 	private String citta;
-
 	public Location() {
 	}
 
